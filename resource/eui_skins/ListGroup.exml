@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin width="400" height="300" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="162667aef93" left="0" right="0" top="0" bottom="0"/>
+	<e:Scroller width="200" height="200" x="152" y="51">
+		<e:List height="246" width="339">
+			<e:ArrayCollection>
+				<e:Array>
+					<e:Object lable="null-1"/>
+					<e:Object lable="null-2"/>
+					<e:Object lable="null-3"/>
+					<e:Object lable="null-4"/>
+					<e:Object lable="null-5"/>
+					<e:Object lable="null-6"/>
+					<e:Object lable="null-7"/>
+					<e:Object lable="null-8"/>
+				</e:Array>
+			</e:ArrayCollection>
+		</e:List>
+	</e:Scroller>
+</e:Skin>

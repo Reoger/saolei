@@ -1,0 +1,5 @@
+{"file":"face.png","frames":{
+"face_smile":{"x":46,"y":47,"w":44,"h":45,"offX":2,"offY":1,"sourceW":48,"sourceH":48},
+"face_surprise":{"x":46,"y":0,"w":44,"h":45,"offX":2,"offY":1,"sourceW":48,"sourceH":48},
+"face_happy":{"x":0,"y":47,"w":44,"h":45,"offX":2,"offY":1,"sourceW":48,"sourceH":48},
+"face_sad":{"x":0,"y":0,"w":44,"h":45,"offX":2,"offY":1,"sourceW":48,"sourceH":48}}}
